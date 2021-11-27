@@ -1,2 +1,1 @@
-# note-taker
-Express.js challenge
+# Note Taker Starter Code
