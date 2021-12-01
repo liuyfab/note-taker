@@ -6,7 +6,6 @@ const path = require("path");
 const PORT = 3001;
 const { v4: uuidv4 } = require('uuid');
 
-
 //Settibng jsonand public folder 
 app.use(express.json()); 
 app.use(express.urlencoded({extended: true}));
