@@ -2,9 +2,11 @@
 
 # Description
 Note Taker is a quick and easy web-based application designed to jot notes and save them in a database. It has an HTML interface, uses Express.js as its back-end, and is deployed on Heroku.
-![Landing Page](https://github.com/liuyfab/team-profile-generator/blob/main/Screenshot_sample_html.png?raw=true)
+![Landing Page](https://github.com/liuyfab/note-taker/blob/main/screenshots/Data_in_db.png?raw=true)
+![Landing Page](https://github.com/liuyfab/note-taker/blob/main/screenshots/Deployment.png?raw=true)
 
-# Heroku Link Live Deployment
+# Heroku Link 
+
 
 # Table of Contents
 * [Installation](#installation)
