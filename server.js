@@ -3,7 +3,7 @@ const fs = require("fs");
 const app = express();
 const noteData = require('./db/db.json');
 const path = require("path");
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 const { v4: uuidv4 } = require('uuid');
 
 //Settibng jsonand public folder 
