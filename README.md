@@ -7,9 +7,8 @@ Note Taker is a quick and easy web-based application designed to jot notes and s
 2. Deployment page
 ![Landing Page](https://github.com/liuyfab/note-taker/blob/main/screenshots/Deployment.png?raw=true)
 
-# Heroku Link 
+# Heroku Deployment Link 
 https://gentle-everglades-34890.herokuapp.com/
-
 
 # Table of Contents
 * [Installation](#installation)
